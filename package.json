@@ -1,0 +1,12 @@
+{
+  "name": "@mozg/stremio-dublados",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.2.0"
+  }
+}

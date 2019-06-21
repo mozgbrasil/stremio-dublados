@@ -1,0 +1,44 @@
+[
+   {
+      "id":"001",
+      "type":"movie",
+      "name":"Name: 001",
+      "posterShape":"regular",
+      "description":"Description: 001",
+      "videos":[
+         {
+            "id":"tt4154796/VideoPlayer",
+            "title":"VideoPlayer",
+            "publishedAt":"2019-05-14T20:35:00.000Z",
+            "overview":"Sinopse: 001",
+            "stream":{
+               "title":"Name: 001 S",
+               "subtitles":"Name: 001 SS",
+               "url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+            },
+            "available":true
+         }
+      ]
+   },
+   {
+      "id":"002",
+      "type":"movie",
+      "name":"Name: 002",
+      "posterShape":"regular",
+      "description":"Description: 002",
+      "videos":[
+         {
+            "id":"tt4154796/VideoPlayer",
+            "title":"VideoPlayer",
+            "publishedAt":"2019-05-14T20:35:00.000Z",
+            "overview":"Sinopse: 002",
+            "stream":{
+               "title":"Name: 002 S",
+               "subtitles":"Name: 002 SS",
+               "url":"http://185.152.66.67:25461/live/MA020/0706/231.ts"
+            },
+            "available":true
+         }
+      ]
+   }
+]
