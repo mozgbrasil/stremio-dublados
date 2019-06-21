@@ -20,10 +20,10 @@ var sizeMetas = _.keys(metas).length;
 
 // Docs: https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md
 const manifest = {
-  "id": "community.mozg", // https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md#basic-information
-  "name": "naazguu",
+  "id": "community.naazguu", // https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md#basic-information
+  "name": "Nazzguu",
   "description": "Catalog with " + sizeMetas + " titles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "resources": [ "catalog", "stream", "meta", "subtitles" ], // https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md#filtering-properties
   "types": [ "movie", "series", "channel", "tv" ],
   "catalogs": [{ // https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md#content-catalogs
