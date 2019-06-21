@@ -20,7 +20,7 @@ var sizeMetas = _.keys(metas).length;
 
 // Docs: https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md
 const manifest = {
-  "id": "community.naazguu", // https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md#basic-information
+  "id": "community.mozg", // https://github.com/Stremio/stremio-addon-sdk/blob/master/docs/api/responses/manifest.md#basic-information
   "name": "naazguu",
   "description": "Catalog with " + sizeMetas + " titles",
   "version": "1.0.0",
