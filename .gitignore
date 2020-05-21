@@ -1,3 +1,4 @@
+.git
 node_modules
 *.dev.md
-yarn.lock
+*.lock
